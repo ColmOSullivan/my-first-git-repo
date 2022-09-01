@@ -1,6 +1,9 @@
 p {
-  font-style: italic;
   font-weight: bold;
+  color: white;
+}
+body {
+  background-color: rebeccapurple;
 }
 
 li {
