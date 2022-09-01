@@ -1,5 +1,6 @@
-body {
-  background-color: rebeccapurple;
+p {
+  font-style: italic;
+  font-weight: bold;
 }
 
 li {
